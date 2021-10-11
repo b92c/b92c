@@ -33,3 +33,6 @@ I have solid knowledge in PHP and basic notions of NodeJS. I am passionate about
 * I love martial arts and train Muay Thai every week.
 * I had a "sensei" who teaches a lot about programming and that with each encounter I advance a lot with my knowledge. Today I try to help others as he helps me;
 * I love my wife and child most of all.
+
+[![Brayann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bbarbosa7)](https://github.com/anuraghazra/github-readme-stats)
+
