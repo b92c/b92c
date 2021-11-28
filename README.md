@@ -16,21 +16,17 @@ I really don't know how you got here, but welcome! Get a cup of coffee and let's
 
 ## Public information 💡
 
-My name is Brayann Barbosa. I currently live in Espírito Santo, Brazil, and my job is to design solutions and implementations.
+My name is Brayann Barbosa. I currently live in Espírito Santo, Brazil, and my job is to design solutions and implementations. I love software development and the possibilities and facilities that technology world brings to our lives.
 
-I have solid knowledge in PHP and basic notions of NodeJS. I am passionate about the Linux universe and the Open Source world. I love software development, the possibilities and facilities that technology brings to our daily lives.
-
-## Detailed information 🔍
-
-* **Name**: Brayann W. F. Barbosa
-* **Age**: 29
-* **Living in**: Espírito Santo, Brazil
-* **Stack**: PHP - CakePHP / Laravel - UIKit / Bootstrap - SQL - Docker / AWS
-* **University**: No. My knowledge comes from research and practice.
+## Stack 📖
+* **Frontend**: HTML5, CSS3, JavaScript(ECMA), jQuery, React, Bootstrap, Ulkit
+* **Backend**: PHP, CakePHP, Laravel, NodeJS, ExpressJS, SQL, MySQL
+* **Devops**: Linux, Docker, AWS
+* **Lowcode**: WordPress, Elementor
 
 ## Curiosities about me 🤩
 
-* I love martial arts and train Muay Thai every week.
+* I love martial arts and training Muay Thai 3 times week.
 * I had a "sensei" who teaches a lot about programming and that with each encounter I advance a lot with my knowledge. Today I try to help others as he helps me;
 * I love my wife and child most of all.
 
