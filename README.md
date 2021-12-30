@@ -20,7 +20,7 @@ My name is Brayann Barbosa. I currently live in Espírito Santo, Brazil, and my 
 
 ## Stack 📖
 * **Frontend**: HTML5, CSS3, JavaScript(ECMA), jQuery, React, Bootstrap, Ulkit
-* **Backend**: PHP, CakePHP, Laravel, NodeJS, ExpressJS, SQL, MySQL
+* **Backend**: PHP, CakePHP, Laravel, NodeJS, Express, AdonisJS, SQL, MySQL
 * **Devops**: Linux, Docker, AWS
 * **Lowcode**: WordPress, Elementor
 
