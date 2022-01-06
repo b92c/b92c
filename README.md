@@ -1,6 +1,8 @@
 ## Hello World 👋
 
 I really don't know how you got here, but welcome! Get a cup of coffee and let's go.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
 
 <br/>
 
