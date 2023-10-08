@@ -67,7 +67,3 @@ On the database side, I work extensively with MySQL and DynamoDB. I have a compr
     <p>Postman</p>
     <p>Mocoon</p>
 </div>
-
-<br/>
-
-[![Brayann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bbarbosa7)](https://github.com/anuraghazra/github-readme-stats)
