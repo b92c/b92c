@@ -8,18 +8,15 @@ I really don't know how you got here, but welcome! Get a cup of coffee and let's
 
 ## Public information 💡
 
-My name is Brayann Barbosa. I currently live in Espírito Santo, Brazil, and my job is to design solutions and implementations. I love software development and the possibilities and facilities that technology world brings to our lives.
+I am a software engineer with a strong focus on building REST APIs. My expertise revolves around using PHP with pure object-oriented programming, often employing architectural patterns like Hexagonal, CQRS, or utilizing frameworks such as Laravel. Additionally, I have extensive experience in designing and constructing microservices in Go, following Event-Driven Architecture and REST principles while adhering to best development practices.
 
+My development philosophy emphasizes Test-Driven Development (TDD) and the implementation of design patterns. I am also well-versed in application monitoring, utilizing tools like DataDog and GrayLog. Moreover, I possess a deep understanding of Continuous Integration and Continuous Deployment (CI/CD) pipelines, with proficiency in Jenkins.
+
+On the database side, I work extensively with MySQL and DynamoDB. I have a comprehensive grasp of the entire AWS stack and frequently use Git, Docker, and Linux in my work. While my current role primarily involves backend development, I also have a strong background in frontend technologies, particularly VueJS, although I am not currently utilizing these skills in my current position.
 <br/>
 
 ##
 <div>
-    <a target='_blank' href="https://twitter.com/brayann_barbosa">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.instagram.com/brayann.barbosa/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
     <a target='_blank' href="https://www.linkedin.com/in/brayann-w-f-barbosa-017198126/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -31,48 +28,45 @@ My name is Brayann Barbosa. I currently live in Espírito Santo, Brazil, and my 
 <br/>
 
 ## Stack 📖
-**Frontend**: 
-<div>
-    <img align="center" alt="html5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-    <img align="center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="jQuery" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-    <img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-<br/>
 
 **Backend**:
 <div>
-    <img align="center" alt="PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-    <img align="center" alt="CakePHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">
-    <img align="center" alt="Laravel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-    <img align="center" alt="NodeJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-    <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <p>Go</p>
+    <p>PHP</p>
+    <p>Laravel</p>
+    <p>NodeJS</p>
+    <p>MySQL</p>
+    <p>DynamoDB</p>
+    <p>Serverless</p>
+    <p>AWS Lambda</p>
+</div>
+<br/>
+
+**Frontend**: 
+<div>
+    <p>VueJS</p>
+    <p>HTML5</p>
+    <p>CSS3</p>
+    <p>JavaScript</p>
+    <p>Bootstrap</p>
 </div>
 <br/>
 
 **Devops**: 
 <div>
-    <img align="center" alt="Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    <p>Jenkins</p>
+    <p>Docker</p>
+    <p>AWS</p>
+    <p>Linux</p>
 </div>
 <br/>
 
-**Lowcode**: 
+**Tools**
 <div>
-    <img align="center" alt="WordPress" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-<div>
-
-<br/>
-
-## Curiosities about me 🤩
-
-* I love martial arts and training Muay Thai 3 times week.
-* I had a "sensei" who teaches a lot about programming and that with each encounter I advance a lot with my knowledge. Today I try to help others as he helps me;
-* I love my wife and child most of all.
+    <p>DataDog</p>
+    <p>Postman</p>
+    <p>Mocoon</p>
+</div>
 
 <br/>
 
