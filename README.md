@@ -31,39 +31,23 @@ On the database side, I work extensively with MySQL and DynamoDB. I have a compr
 
 **Backend**:
 <div>
-    <p>Go</p>
-    <p>PHP</p>
-    <p>Laravel</p>
-    <p>NodeJS</p>
-    <p>MySQL</p>
-    <p>DynamoDB</p>
-    <p>Serverless</p>
-    <p>AWS Lambda</p>
+    <p>Go, PHP, SQL, NoSQL, MySQL, DynamoDB, Serverless, AWS Lambda</p>
 </div>
 <br/>
 
 **Frontend**: 
 <div>
-    <p>VueJS</p>
-    <p>HTML5</p>
-    <p>CSS3</p>
-    <p>JavaScript</p>
-    <p>Bootstrap</p>
+    <p>VueJS, HTML, CSS, JavaScript, Bootstrap</p>
 </div>
 <br/>
 
 **Devops**: 
 <div>
-    <p>Jenkins</p>
-    <p>Docker</p>
-    <p>AWS</p>
-    <p>Linux</p>
+    <p>Linux, Docker, Jenkins, AWS Stack, DataDog, </p>
 </div>
 <br/>
 
 **Tools**
 <div>
-    <p>DataDog</p>
-    <p>Postman</p>
-    <p>Mocoon</p>
+    <p>DataDog, Grafana, Postman, Mocoon</p>
 </div>
