@@ -43,7 +43,7 @@ On the database side, I work extensively with MySQL and DynamoDB. I have a compr
 
 **Devops**: 
 <div>
-    <p>Linux, Docker, Jenkins, AWS Stack, DataDog, </p>
+    <p>Linux, Docker, Jenkins, AWS Stack </p>
 </div>
 <br/>
 
