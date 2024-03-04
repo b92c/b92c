@@ -8,7 +8,7 @@ I really don't know how you got here, but welcome! Get a cup of coffee and let's
 
 ## Public information 💡
 
-I am a software engineer with a strong focus on building REST APIs. My expertise revolves around using PHP with pure object-oriented programming, often employing architectural patterns like Hexagonal, CQRS, or utilizing frameworks such as Laravel. Additionally, I have extensive experience in designing and constructing microservices in Go, following Event-Driven Architecture and REST principles while adhering to best development practices.
+I am a software engineer with a strong focus on backend development. My expertise revolves around using PHP with pure object-oriented programming, often employing architectural patterns like Hexagonal, CQRS, or utilizing frameworks such as Laravel. Additionally, I have extensive experience in designing and constructing microservices in Go, following Event-Driven Architecture and REST principles while adhering to best development practices.
 
 My development philosophy emphasizes Test-Driven Development (TDD) and the implementation of design patterns. I am also well-versed in application monitoring, utilizing tools like DataDog and GrayLog. Moreover, I possess a deep understanding of Continuous Integration and Continuous Deployment (CI/CD) pipelines, with proficiency in Jenkins.
 
