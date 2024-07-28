@@ -8,11 +8,11 @@ I really don't know how you got here, but welcome! Get a cup of coffee and let's
 
 ## Public information 💡
 
-I am a software engineer with a strong focus on backend development. My expertise revolves around using PHP with pure object-oriented programming, often employing architectural patterns like Hexagonal, CQRS, or utilizing frameworks such as Laravel. Additionally, I have extensive experience in designing and constructing microservices in Go, following Event-Driven Architecture and REST principles while adhering to best development practices.
+I am a senior software developer with 5 years of experience in web development and 3 years in cloud computing. During this time, I have specialized in building monolithic applications and REST APIs using PHP frameworks like Laravel. Additionally, I have 3 years of experience developing microservices and automations with Golang.
 
-My development philosophy emphasizes Test-Driven Development (TDD) and the implementation of design patterns. I am also well-versed in application monitoring, utilizing tools like DataDog and GrayLog. Moreover, I possess a deep understanding of Continuous Integration and Continuous Deployment (CI/CD) pipelines, with proficiency in Jenkins.
+My technical expertise includes proficiency in hexagonal, clean, and event-driven architecture, along with design patterns for robust application development. I am skilled in implementing communication protocols such as gRPC and REST API, and I have worked extensively with SQL, NoSQL databases, and Elasticsearch for scalable data solutions. I also have experience with data streaming technologies such as Kafka and Amazon EventBridge.
 
-On the database side, I work extensively with MySQL and DynamoDB. I have a comprehensive grasp of the entire AWS stack and frequently use Git, Docker, and Linux in my work. While my current role primarily involves backend development, I also have a strong background in frontend technologies, particularly VueJS, although I am not currently utilizing these skills in my current position.
+On the infrastructure side, I have hands-on experience with Docker, Kubernetes, and AWS Lambda. I am adept at implementing CI/CD pipelines using Jenkins and GitLab, and I utilize tools like DataDog, Prometheus, and Grafana for application observability and monitoring.
 <br/>
 
 ##
@@ -23,31 +23,4 @@ On the database side, I work extensively with MySQL and DynamoDB. I have a compr
     <a href = "mailto:brayann.wheberth@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-</div>
-
-<br/>
-
-## Stack 📖
-
-**Backend**:
-<div>
-    <p>Go, PHP, SQL, NoSQL, MySQL, DynamoDB, Serverless, AWS Lambda</p>
-</div>
-<br/>
-
-**Frontend**: 
-<div>
-    <p>VueJS, HTML, CSS, JavaScript, Bootstrap</p>
-</div>
-<br/>
-
-**Devops**: 
-<div>
-    <p>Linux, Docker, Jenkins, AWS Stack </p>
-</div>
-<br/>
-
-**Tools**
-<div>
-    <p>DataDog, Grafana, Postman, Mocoon</p>
 </div>
