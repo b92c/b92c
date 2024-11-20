@@ -4,7 +4,8 @@ I really don't know how you got here, but welcome! Get a cup of coffee and let's
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <br/>
 
-<a target='_blank' href="https://mypomolist.com/">Need a **Pomodoro** or an **To-Do list**?</a>  
+<a href="https://mypomolist.com/" target='_blank'>Need a **Pomodoro** or a **To-Do list**?</a>  
+<a href="https://encontreja.net/" target='_blank'> Need a **freelancer**? </a>
 
 <br/>
 
