@@ -18,6 +18,11 @@ My technical expertise includes proficiency in hexagonal, clean, and event-drive
 On the infrastructure side, I have hands-on experience with Docker, Kubernetes, and AWS Lambda. I am adept at implementing CI/CD pipelines using Jenkins and GitLab, and I utilize tools like DataDog, Prometheus, and Grafana for application observability and monitoring.
 <br/>
 
+<div>
+<a href="https://github.com/b92c">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b92c&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ##
 <div>
     <a target='_blank' href="https://www.linkedin.com/in/brayann-w-f-barbosa-017198126/">
