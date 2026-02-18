@@ -3,6 +3,9 @@
 <p align="center">
   <em>"Code, coffee, and continuous learning."</em>
 </p>
+<p align="center">
+  <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif" alt="Gopher fun">
+</p>
 
 ---
 
