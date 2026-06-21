@@ -65,7 +65,8 @@
 - Design and implement **REST APIs** and **gRPC services**  
 - Develop **AI-powered workflows** and integrate LLMs into applications  
 - Optimize observability with **Datadog**, **Prometheus**, and **Grafana**  
-- Mentor teams and drive **technical strategy** aligned with business objectives  
+- Mentor teams and drive **technical strategy** aligned with business objectives
+- "Most of my production work lives in private repos at HostGator/Newfold"
 
 ---
 
