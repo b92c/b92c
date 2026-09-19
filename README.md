@@ -15,12 +15,10 @@
      align="right">
 
 ## 🚀 About Me  
-- **Tech Lead** & **Senior Software Developer**  
-- **7 years** in software development  
-- **5 years** in cloud computing
-- **3 years** in AI development  
+- **Software Developer**  
+- **+7 years** building solutions using software engineering
 - Experience in **mentoring teams**, aligning tech with business, and delivering impactful solutions  
-- Passionate about **clean architecture**, **scalable systems**, and **automation**  
+- Passionate about **AI development**, **clean architecture**, **scalable systems**, and **automation**  
 - Building solutions that integrate **AI** into real-world applications (LangChain, LangGraph, n8n, OpenAI, Anthropic, LLMs)  
 
 ---
