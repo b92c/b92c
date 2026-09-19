@@ -73,3 +73,6 @@
 <a href="mailto:brayann.wheberth@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a target='_blank' href="https://wa.me/5527997560340">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge&logoColor=fff">
+</a> 
